@@ -24,7 +24,7 @@ Go-based concurrent log analytics engine that processes production-style logs, c
 Document-grounded Q&A system using FastAPI, FAISS, OpenAI embeddings, and GPT-based answer generation. Supports PDF/JSON ingestion and retrieval-first answers to reduce hallucination.  
 `Python` `FastAPI` `FAISS` `RAG` `LLMs`
 
-### Nexteer Energy Reporting Pipeline
+### Nexteer Automotive - Energy Reporting Pipeline
 Azure-native serverless document processing pipeline for utility bills using Azure Functions, Blob Triggers, Document Intelligence, OpenAI, and Table Storage. Designed for scalable async processing and lower infrastructure cost.  
 `Azure Functions` `Python` `OCR` `Serverless`
 
